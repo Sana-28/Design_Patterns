@@ -1,4 +1,4 @@
-package com.bridgelabz.behavioralObserver;
+/*
 
 public class BinaryObserver extends Observer {
 
@@ -11,4 +11,4 @@ public class BinaryObserver extends Observer {
 	public void update() {
 		System.out.println("Binary String: " + Integer.toBinaryString(subject.getState()));
 	}
-}
+}*/
